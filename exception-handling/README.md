@@ -28,32 +28,24 @@ This project focuses on **custom exceptions** and how they can make applications
 
 
 ##  Project Structure
+
+
+```
 BankingSystem/
-
 ├── src/
-
-│   ├── exceptions/ 
-
+│   ├── exceptions/
 │   │   ├── InvalidAmountException.java
-
 │   │   ├── InsufficientBalanceException.java
-
 │   │   └── AccountNotFoundException.java
-
 │   │
 │   ├── model/
-
 │   │   └── Account.java
-
 │   │
 │   ├── service/
-
 │   │   └── Bank.java
-
 │   │
 │   └── BankingApp.java
-
 │
 └── README.md
-
+```
 
