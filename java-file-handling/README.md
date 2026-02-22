@@ -26,20 +26,15 @@ Users can add, view, search, update, and delete expenses, with data stored in a 
 ---
 
 ##  Project Structure
+```
 java-file-handling/
-
 ├── src/
-
 │ ├── model/Expense.java # Entity class
-
 │ ├── service/ExpenseManager.java # Business logic (CRUD)
-
 │ ├── utils/FileHandler.java # File operations
-
 │ ├── ExpenseApp.java # Main app (console UI)
-
 ├── text-files/expenses.txt # File storage for expenses
-
 └── README.md # Documentation
 
+```
 
