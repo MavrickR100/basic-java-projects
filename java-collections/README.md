@@ -34,22 +34,15 @@ The project allows adding, searching, borrowing, and returning books while manag
 
 ##  Project Structure
 
+```
 LibraryManagement/
-
-│── src/ 
-
+│── src/
 │ └── com/
-
 │ └── library/
-
 │ ├── Book.java # Book entity
-
 │ ├── User.java # User entity
-
 │ ├── Library.java # Core library operations
-
 │ ├── LibraryApp.java # Entry point with menu-driven interface
-
 │
-
 └── README.md # Project documentation
+```
